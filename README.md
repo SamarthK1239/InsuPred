@@ -1,5 +1,5 @@
 # InsuPred | Created by Samarth Kulkarni
-Effective Date: 13 January 2024
+**Effective Date: 13 January 2024**
 
 Thank you for using InsuPred, an app designed to assist type 1 diabetic patients in predicting insulin dosages. This Privacy Policy outlines how we collect, use, and protect user information. By using InsuPred, you agree to the terms described in this policy.
 
